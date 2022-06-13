@@ -1,4 +1,4 @@
-print("introduce numero")
+print("introduce numero nuevo")
 num = int(input())
 if num < 1:
      False
