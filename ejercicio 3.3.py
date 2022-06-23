@@ -2,7 +2,7 @@ print("introduce numero nuevo editado")
 num = int(input())
 if num < 1:
      False
-     print("false")
+     print("falseee")
 elif num == 2:
      True
      print("true")
