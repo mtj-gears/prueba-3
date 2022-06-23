@@ -9,7 +9,7 @@ elif num == 2:
 else:
     for i in range(2, num):
         if num % i == 0:
-             print("false2 rama")
+             print("false2 ramaaa")
              False
     print("true2")
     True
