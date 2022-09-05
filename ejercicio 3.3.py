@@ -13,3 +13,6 @@ else:
              False
     print("true2")
     True
+cambio2
+cambio3
+cambio4
