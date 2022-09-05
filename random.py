@@ -4,3 +4,5 @@ for sorteo in range(5):
     print(f"Sorteo {sorteo+1},tu premio es {premio}")
     
     3434
+
+    99
